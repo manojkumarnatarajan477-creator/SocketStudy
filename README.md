@@ -87,7 +87,6 @@ server_socket.close()
 ```
 ### Client.py
 ```
-
 import socket
 
 # Create socket
